@@ -6,7 +6,7 @@ export default function Footer() {
 }
 
 const FooterWrapper = styled.div`
-  height: 500px;
+  height: 200px;
   background-color: black;
   color: white;
 `;
